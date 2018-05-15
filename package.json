@@ -1,13 +1,13 @@
+
 {
-	"name": "hyper-snazzy",
+	"name": "hyper-snazzy-dark",
 	"version": "1.2.3",
 	"description": "Elegant Hyper theme with bright colors",
 	"license": "MIT",
-	"repository": "sindresorhus/hyper-snazzy",
+	"repository": "flaque/hyper-snazzy-dark",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Evan Conrad",
+		"url": "flaque.net"
 	},
 	"files": [
 		"index.js"
